@@ -22,34 +22,30 @@ BE : https://github.com/debate-timer/debate-timer-be
 
 ## 1. 디베이트 타이머의 시작
 <p align="center">
-  <img width="672" height="373" alt="image" src="https://github.com/user-attachments/assets/3c352c3a-2042-4f6f-bccb-5d507b2937a0" />
-  <img width="672" height="373" alt="image" src="https://github.com/user-attachments/assets/f671c61b-7af6-4873-adf2-d181247c04d8" />
+  <img width="672" height="373" src="https://github.com/user-attachments/assets/3c352c3a-2042-4f6f-bccb-5d507b2937a0" />
+  <img width="672" height="373" src="https://github.com/user-attachments/assets/f671c61b-7af6-4873-adf2-d181247c04d8" />
 </p>
 
-그렇게 팀 빌딩이 시작되었고, 토론과 소통에 관심을 가진 이들로 이루어진 프로젝트
-'디베이트 타이머'가 시작되었습니다.
-
 <br><br>
+
 
 ## 2. 서비스 핵심 기능
 <p align="center">
-  
-  ![001](https://github.com/user-attachments/assets/0b6b1c00-2ace-49d2-a719-689deba5e18f)
-  ![002](https://github.com/user-attachments/assets/85e19f80-453f-444d-b17b-66a294df218e)
-  ![003](https://github.com/user-attachments/assets/3b2a7d68-ebea-419b-bc7d-8731167b298f)
-  ![004](https://github.com/user-attachments/assets/58dc5d1e-a69f-4646-a7cf-0c98f7350605)
-  ![005](https://github.com/user-attachments/assets/4593096d-d9b3-482e-8411-50091faa1dc1)
+  <img width="672" height="373" src="https://github.com/user-attachments/assets/0b6b1c00-2ace-49d2-a719-689deba5e18f" />
+  <img width="672" height="373" src="https://github.com/user-attachments/assets/85e19f80-453f-444d-b17b-66a294df218e" />
+  <img width="672" height="373" src="https://github.com/user-attachments/assets/3b2a7d68-ebea-419b-bc7d-8731167b298f" />
+  <img width="672" height="373" src="https://github.com/user-attachments/assets/58dc5d1e-a69f-4646-a7cf-0c98f7350605" />
+  <img width="672" height="373" src="https://github.com/user-attachments/assets/4593096d-d9b3-482e-8411-50091faa1dc1" />
 </p>
 
-<br><br>
 
 ## 3. 프로젝트 문화
 <p align="center">
-  
-![006](https://github.com/user-attachments/assets/22cc3809-0e60-4630-a8ef-cc88835e953b)
-![007](https://github.com/user-attachments/assets/16d96e91-02f0-4441-aec9-9ee1f28e3cc9)
-![008](https://github.com/user-attachments/assets/e1e941ab-6bd4-4781-bbca-c7b462b14e50)
-![009](https://github.com/user-attachments/assets/b5a77bc1-4b6b-4ec8-8d2a-41cf59e1d374)  
+  <img width="672" height="373" src="https://github.com/user-attachments/assets/22cc3809-0e60-4630-a8ef-cc88835e953b" />
+  <img width="672" height="373" src="https://github.com/user-attachments/assets/16d96e91-02f0-4441-aec9-9ee1f28e3cc9" />
+  <img width="672" height="373" src="https://github.com/user-attachments/assets/e1e941ab-6bd4-4781-bbca-c7b462b14e50" />
+  <img width="672" height="373" src="https://github.com/user-attachments/assets/b5a77bc1-4b6b-4ec8-8d2a-41cf59e1d374" />
 </p>
+
 
 <br><br>
